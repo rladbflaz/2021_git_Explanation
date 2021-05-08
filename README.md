@@ -262,7 +262,7 @@ commit했던 apple이 삭제되고 hi상태로 되돌아 온 것을 볼 수 있�
 
 |명령어|사용 여부|
 |---|---|
-|![add](https://github.com/rladbflaz/sw2/blob/main/README.md#config)|
+|[add](https://github.com/rladbflaz/sw2/blob/main/README.md#config)|
 |branch|
 |checkout|
 |clone|
