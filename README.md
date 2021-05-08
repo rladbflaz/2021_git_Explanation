@@ -272,19 +272,20 @@ commit했던 apple이 삭제되고 hi상태로 되돌아 온 것을 볼 수 있�
 
 |명령어|사용 여부|
 |---|---|
-|[add](https://github.com/rladbflaz/sw2/blob/main/README.md#config)|
-|branch|
-|checkout|
-|clone|
-|commit|
-|config|
-|init|
-|log|
-|merge|
-|pull|
-|push|
-|rebase|
-|remote|
-|reset| 
---hard, status, tag
+|[add](https://github.com/rladbflaz/sw2/blob/main/README.md#add)|O|
+|[branch](https://github.com/rladbflaz/sw2/blob/main/README.md#branch)|O|
+|[checkout](https://github.com/rladbflaz/sw2/blob/main/README.md#checkout)|O|
+|[clone](https://github.com/rladbflaz/sw2/blob/main/README.md#clone)|O|
+|[commit](https://github.com/rladbflaz/sw2/blob/main/README.md#commit)|O|
+|[config](https://github.com/rladbflaz/sw2/blob/main/README.md#config)|O|
+|[init](https://github.com/rladbflaz/sw2/blob/main/README.md#init)|O|
+|[log](https://github.com/rladbflaz/sw2/blob/main/README.md#log)|O|
+|[merge](https://github.com/rladbflaz/sw2/blob/main/README.md#merge)|O|
+|[pull](https://github.com/rladbflaz/sw2/blob/main/README.md#pull)|O|
+|[push](https://github.com/rladbflaz/sw2/blob/main/README.md#push)|O|
+|[rebase](https://github.com/rladbflaz/sw2/blob/main/README.md#rebase)|O|
+|[remote](https://github.com/rladbflaz/sw2/blob/main/README.md#remote)|O|
+|[reset --hard](https://github.com/rladbflaz/sw2/blob/main/README.md#reset)|O|
+|[status](https://github.com/rladbflaz/sw2/blob/main/README.md#status)|O|
+|[tag](https://github.com/rladbflaz/sw2/blob/main/README.md#tag)|O|
 
