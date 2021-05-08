@@ -260,3 +260,21 @@ commit했던 apple이 삭제되고 hi상태로 되돌아 온 것을 볼 수 있�
 - git reset --soft [일련번호6자리] : 원하는 부분으로 되돌아갔지만, 이후의 내용이 지워지지 않고, 해당 내용의 인덱스가 그대로 남아있음. 바로 다시 커밋할 수 있는 상태로 남음.
 
 
+|명령어|사용 여부|
+|---|---|
+|add|
+|branch|
+|checkout|
+|clone|
+|commit|
+|config|
+|init|
+|log|
+|merge|
+|pull|
+|push|
+|rebase|
+|remote|
+|reset| 
+--hard, status, tag
+
